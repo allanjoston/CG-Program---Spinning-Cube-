@@ -1,1 +1,1 @@
-# CG-Program---Spinning-Cube-
+# CG-Program ---> Spinning Cube
